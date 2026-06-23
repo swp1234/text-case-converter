@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "Text Case Converter",
+    "description": "Convert text to uppercase, lowercase, title case, sentence case, camelCase, snake_case, and kebab-case."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
